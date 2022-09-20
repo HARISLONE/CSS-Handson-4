@@ -181,7 +181,7 @@ li{
     color: black;
     font-weight: bold;
 }
-li{
+ol li{
     list-style-position: inside;
     margin: 0;
     padding: 0;
